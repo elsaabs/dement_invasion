@@ -1,0 +1,9 @@
+end_time	365
+x	100
+y	100
+gridsize	10000
+n_substrates	12
+n_uptake	14
+direct	0.95
+dist	1
+interval	1
