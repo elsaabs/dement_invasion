@@ -1,3 +1,3 @@
 # dement_invasion
 
-Google Colaboratory notebook for all figures (manuscript and supplementary)
+Python code for invasion (phases I and II) and Google Colaboratory notebook for all figures (manuscript and supplementary)
